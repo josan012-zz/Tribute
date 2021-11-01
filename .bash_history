@@ -110,3 +110,14 @@ git add ../.bashrc
 git add ../.cache/
 git status
 git add .cache/
+git status
+git add *
+git add .*
+git status
+git add -A
+git status
+git commit -m "add"
+git push -u origin main
+code .
+wsl --list
+code .
