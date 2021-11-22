@@ -3,6 +3,7 @@ import { Page1 } from './styled';
 
 const PageFour = () => {
   return (
+    <Page1>
     <div className="final">
     <div className="center">
         <div className="violet">
@@ -82,7 +83,7 @@ const PageFour = () => {
         <div className="trecere-pagina"></div>
       </div>
   </div>
-  
+  </Page1>
   
   
   );

@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 
-export const Page1 = styled.div`
+export const Pagina1 = styled.div`
 .center {
     display: flex;
     justify-content: center;
@@ -343,3 +343,4 @@ export const Page1 = styled.div`
     margin-top: 20px !important;
   }
 `;
+export default Pagina1;
